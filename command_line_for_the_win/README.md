@@ -1,3 +1,8 @@
-## Background Context
+# Command Line for the Win
+This optional project was all about taking some command line challenge, where we had to figure out the command to get certain tasks done on bash, from simple tasks such as printing hello world on the terminal, printing current working directory, to complex tasks that required performing multiple tasks in a single command.
 
-CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated. It’s a good training to improve your command line skills!
+We were supposed to take screenshots and push them to git when we were through with:
+- the first 9 tasks
+- the next 9 tasks, making it 18
+- the nect 9 tasks, making it 27
+
